@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="815.738" height="851.934" viewBox="0 0 815.738 851.934">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" x2="0.971" y2="0.675" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1f1f1" stop-opacity="0.478"/>
+      <stop offset="1" stop-color="#b5d5f4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc62c" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff6663" stop-opacity="0.302"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" y1="0.92" x2="1" y2="0.626" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#ffc22d" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="fileHand" transform="translate(35.174 -109.154)">
+    <path id="Tracé_5477" data-name="Tracé 5477" d="M6235.826,1573.1s265.957-230.59,469.667-186.735,359.324,182.491,345.177,362.153-219.272,449.862-345.177,469.667-41.025-292.835-158.442-390.446-311.226,0-311.226,0Z" transform="translate(-6271 -1258)" fill="url(#linear-gradient)"/>
+    <g id="Hand_and_List" data-name="Hand and List" transform="translate(334.367 970.036) rotate(-150)">
+      <g id="Primary">
+        <g id="Hand-and-List" transform="translate(0 0)">
+          <g id="Thinger" transform="translate(125.272 287.09)">
+            <path id="Tracé_5469" data-name="Tracé 5469" d="M19.9,39.933C-.285,31.8-4.093,12.617,3.9,3.933c7.392-9.051,50.014-.823,59,8q8.46,8.428,3,51A497.848,497.848,0,0,0,19.9,39.933Z" fill="#ffc62c"/>
+            <path id="Tracé_5470" data-name="Tracé 5470" d="M19.9,39.933C-.285,31.8-4.093,12.617,3.9,3.933c7.392-9.051,50.014-.823,59,8q8.46,8.428,3,51A497.848,497.848,0,0,0,19.9,39.933Z" fill="url(#linear-gradient-2)"/>
+          </g>
+          <g id="Thinger-2" data-name="Thinger" transform="translate(110.272 315.09)">
+            <path id="Tracé_5471" data-name="Tracé 5471" d="M19.9,39.933C-.285,31.8-4.093,12.617,3.9,3.933c7.392-9.051,50.014-.823,59,8q8.46,8.428,3,51A497.849,497.849,0,0,0,19.9,39.933Z" fill="#ffc62c"/>
+            <path id="Tracé_5472" data-name="Tracé 5472" d="M19.9,39.933C-.285,31.8-4.093,12.617,3.9,3.933c7.392-9.051,50.014-.823,59,8q8.46,8.428,3,51A497.849,497.849,0,0,0,19.9,39.933Z" fill="url(#linear-gradient-2)"/>
+          </g>
+          <g id="List" transform="translate(0 341.532)">
+            <path id="Tracé_5473" data-name="Tracé 5473" d="M9.129,400.509l332.729,29.11a10,10,0,0,0,10.833-9.09L385.985,39.983a10,10,0,0,0-9.09-10.834L44.166.039A10,10,0,0,0,33.332,9.13L.039,389.676A10,10,0,0,0,9.129,400.509Z" transform="translate(0 0)" fill="#f7f7f8"/>
+          </g>
+          <g id="Group" transform="translate(143.286 0)">
+            <g id="Hand" transform="translate(0)">
+              <path id="Tracé_5475" data-name="Tracé 5475" d="M9.881,22.023c-30.355,34.482,19.631,102.094,12,136-7.553,34.48-24.666,69.092-16,126,4.014,25.692,2.5,88.741,4,120,2.187,45.382,4.952,87,25,87,18.209,0,33.109-23.529,35-83q-.031-13.631-6-52l110,10q22-42,22-60c0-18.857-69.017-129.4-68-148-1.017-18.022,23.786-110.979,0-136C102.062-2.421,40.264-11.882,9.881,22.023Z" fill="#ffc62c"/>
+              <path id="Tracé_5476" data-name="Tracé 5476" d="M9.881,22.023c-30.355,34.482,19.631,102.094,12,136-7.553,34.48-24.666,69.092-16,126,4.014,25.692,2.5,88.741,4,120,2.187,45.382,4.952,87,25,87,18.209,0,33.109-23.529,35-83q-.031-13.631-6-52l110,10q22-42,22-60c0-18.857-69.017-129.4-68-148-1.017-18.022,23.786-110.979,0-136C102.062-2.421,40.264-11.882,9.881,22.023Z" fill="url(#linear-gradient-2)"/>
+            </g>
+            <path id="Sh" d="M0,26,8,0,117,22l-7,14Z" transform="translate(63.881 330.023)" fill-rule="evenodd" fill="url(#linear-gradient-5)"/>
+            <path id="Line" d="M0,81.615a1.5,1.5,0,0,0,3,0c0-2.476.7-6.28,2.2-12.355.62-2.515,3.971-15.34,4.926-19.183,3.935-15.832,6.252-28.6,6.984-41.072q.225-3.833.226-7.505a1.5,1.5,0,0,0-3,0q0,3.584-.221,7.329c-.719,12.258-3.007,24.856-6.9,40.524C6.261,53.172,2.91,66,2.283,68.542.727,74.852,0,78.815,0,81.615Z" transform="translate(64.077 274.762)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

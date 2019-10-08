@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="305.877" height="548.294" viewBox="0 0 305.877 548.294">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a8c8ed"/>
+      <stop offset="1" stop-color="#83aed6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cbdef3"/>
+      <stop offset="1" stop-color="#aad1f5"/>
+    </linearGradient>
+  </defs>
+  <g id="spot_3" data-name="spot 3" transform="translate(-1685.003 -121.316)">
+    <path id="Tracé_5273" data-name="Tracé 5273" d="M6023.434,117.262C5961.283,212.1,5786.979,219.085,5796.369,325.5s194.047,184.658,194.047,184.658S6071.911,43.29,6023.434,117.262Z" transform="translate(-4111 12)" fill="url(#linear-gradient)"/>
+    <path id="Tracé_5274" data-name="Tracé 5274" d="M5952.858,108.569c0,121.588-165.878,151.545-156.489,271.371s94.676,170.928,194.047,207.934S5952.858-13.019,5952.858,108.569Z" transform="matrix(0.998, 0.07, -0.07, 0.998, -4014.521, -338.774)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
